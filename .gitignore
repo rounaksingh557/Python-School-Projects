@@ -1,0 +1,8 @@
+# Directory
+.vscode
+Include
+Lib
+Scripts
+
+#files
+pyvenv.cfg
