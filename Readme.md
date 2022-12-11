@@ -1,3 +1,9 @@
+@media only screen and (max-width: 640px) {
+	h4 {
+		font-size: 88px;
+	}
+}
+
 # School Python Projects
 
 ## <pre>In this repository you will python projects curated by efforts of <mark>Rounak Singh and Sanchit Ark</mark>. </pre>
