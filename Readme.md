@@ -1,6 +1,6 @@
 ## School Python Projects
 
-### <pre>In this repository you will python projects curated by efforts of <mark>Rounak Singh and Sanchit Ark</mark>. </pre>
+### <pre>In this repository you will python projects curated by efforts of <mark>Rounak Singh and Sanchit Ark.</mark></pre>
 
 <br />
 
