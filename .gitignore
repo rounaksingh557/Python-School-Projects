@@ -3,6 +3,16 @@
 Include
 Lib
 Scripts
+bin
+lib64
+/lib64
+/lib64/python3.10/site-packages/_distutils_hack
+/lib64/python3.10/site-packages/pip
+/lib64/python3.10/site-packages/pip-22.0.4.dist-info
+/lib64/python3.10/site-packages/pkg_resources
+/lib64/python3.10/site-packages/setuptools
+/lib64/python3.10/site-packages/setuptools-58.1.0.dist-info
+/lib
 
 #files
 pyvenv.cfg

@@ -31,6 +31,7 @@ def decision():
         retrieve()
     else:
         print("Wrong decision")
+        retrieve()
 
 
 def retrieve():
